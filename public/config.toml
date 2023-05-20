@@ -1,47 +1,34 @@
-## Basic Configuration
 baseurl = "https://github.com/jacques28/blog-app 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
-
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-
 author = "Jack "
 title = "Jack's Blog"
-
 theme = "hugo-goa"
-
-## Hugo Built-in Features
- # Comment out to disable Disqus.
 googleAnalytics = "XYZ"
 enableRobotsTXT = true
-
-## Site Settings
 [params]
 author = "Jack "
 intro = "Software Engineer"
 description = "Now @coming soon. Previously @Soptirec @Stociattitude.<br/> \"Want to know more check about me.\""
 authorimage = "logo.jpg"
 dateformat = "Jan 2, 2006"
-
 ## Site Meta Settings
 [params.meta]
 description = "Simple minimalist blog"
 keywords = "minimalist,blog,developer"
-
 ## Social Accounts
 [params.social]
 github = " "
 instagram = " "
 twitter = " "
 email = "devjacques28i@gmail.com"
-
 ## Extras
 [params.extra]
  content= "Built by Jack"
-
 ## Main Menu
 [[menu.main]]
     name = "blog"

@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://github.com/jacques28/blog-app/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://github.com/jacques28/blog-app/about/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>https://github.com/jacques28/blog-app/posts/first/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://github.com/jacques28/blog-app/posts/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://github.com/jacques28/blog-app/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://github.com/jacques28/blog-app/tags/</loc>
   </url>
   
 </urlset>

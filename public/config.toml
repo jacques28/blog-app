@@ -1,4 +1,4 @@
-baseurl = "https://github.com/jacques28/blog-app"
+baseurl = "https://shenoybr.github.io/hugo-goa-demo/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"

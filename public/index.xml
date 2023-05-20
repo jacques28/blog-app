@@ -1,60 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Erlich Bachman</title>
-    <link>https://kaapiandcode.github.io/hugo-goa-demo/</link>
-    <description>Recent content on Erlich Bachman</description>
+    <title>Jack&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jack&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate><atom:link href="https://kaapiandcode.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hooli’s Hot New Hardware</title>
-      <link>https://kaapiandcode.github.io/hugo-goa-demo/blog/third/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>My First Post</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kaapiandcode.github.io/hugo-goa-demo/blog/third/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to my first post Hello, I&amp;rsquo;m Jack, a dedicated and passionate software engineer. With a strong background in programming and problem-solving, I strive to create efficient and innovative software solutions.
+As a software engineer, I specialize in developing high-quality applications, designing robust software architectures, and implementing scalable solutions. I have experience working with various programming languages, frameworks, and technologies, allowing me to adapt to diverse project requirements.
+ Languages: Java, Python, C++, C, JavaScript, HTML, CSS, SQL, Bash Frameworks: Nextjs, React, Bootstrap, Tailwind, jQuery, Node.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://kaapiandcode.github.io/hugo-goa-demo/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://kaapiandcode.github.io/hugo-goa-demo/about/</guid>
-      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
-    </item>
-    
-    <item>
-      <title>CodeRag</title>
-      <link>https://kaapiandcode.github.io/hugo-goa-demo/coderag/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://kaapiandcode.github.io/hugo-goa-demo/coderag/</guid>
-      <description>Notes: This article originally appeared in CodeRag.
-Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
-    </item>
-    
-    <item>
-      <title>Gavin Belson</title>
-      <link>https://kaapiandcode.github.io/hugo-goa-demo/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://kaapiandcode.github.io/hugo-goa-demo/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
-    </item>
-    
-    <item>
-      <title>Belson Back on Top</title>
-      <link>https://kaapiandcode.github.io/hugo-goa-demo/blog/second/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://kaapiandcode.github.io/hugo-goa-demo/blog/second/</guid>
-      <description>Note: This post originally appeared in CodeRag
-Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a personal hiatus from day-to-day operations at Hooli, Belson couldn’t resist brokering a blockbuster deal between Hooli and Maleant Data Systems, deploying Hooli’s innovative new Hooli/Endframe Box. The multi-year deal brings handsome margins for Hooli and can easily be a template to apply across the entire Fortune 1000. An inside source tells me that, no surprise, the board was no longer satisfied to let Belson fade into the background.</description>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>Welcome to my first post This is the content of my first blog post. It&amp;rsquo;s an example to demonstrate how to add content to a Markdown file in Hugo.
+Here&amp;rsquo;s a list of items:
+ Item 1 Item 2 Item 3  </description>
     </item>
     
   </channel>

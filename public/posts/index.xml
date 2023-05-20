@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jack&#39;s Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jack&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>Welcome to my first post This is the content of my first blog post. It&amp;rsquo;s an example to demonstrate how to add content to a Markdown file in Hugo.
+Here&amp;rsquo;s a list of items:
+ Item 1 Item 2 Item 3  </description>
+    </item>
+    
+  </channel>
+</rss>

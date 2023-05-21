@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack&#39;s Blog</title>
-    <link>https://github.com/jacques28/blog-app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Jack&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/jacques28/blog-app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://github.com/jacques28/blog-app/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jacques28/blog-app/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Welcome to my first post Hello, I&amp;rsquo;m Jack, a dedicated and passionate software engineer. With a strong background in programming and problem-solving, I strive to create efficient and innovative software solutions.
 As a software engineer, I specialize in developing high-quality applications, designing robust software architectures, and implementing scalable solutions. I have experience working with various programming languages, frameworks, and technologies, allowing me to adapt to diverse project requirements.
  Languages: Java, Python, C++, C, JavaScript, HTML, CSS, SQL, Bash Frameworks: Nextjs, React, Bootstrap, Tailwind, jQuery, Node.</description>
@@ -20,10 +20,10 @@ As a software engineer, I specialize in developing high-quality applications, de
     
     <item>
       <title>My First Post</title>
-      <link>https://github.com/jacques28/blog-app/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/jacques28/blog-app/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>Welcome to my first post This is the content of my first blog post. It&amp;rsquo;s an example to demonstrate how to add content to a Markdown file in Hugo.
 Here&amp;rsquo;s a list of items:
  Item 1 Item 2 Item 3  </description>

@@ -5,12 +5,13 @@ date: 2023-05-17
 
 # Welcome to my first post
 
-This is the content of my first blog post. It's an example to demonstrate how to add content to a Markdown file in Hugo.
+This is the content of my first blog post.
 
 Here's a list of items:
 
-- Item 1
-- Item 2
-- Item 3
+- current project progress
+- current project ideas
+- future project ideas
 
-![Image](/path/to/image.jpg)
+
+[🙌]

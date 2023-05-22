@@ -3,7 +3,7 @@ title: "About me"
 date: 2023-05-17
 ---
 
-# Welcome to my first post
+# Welcome to my first post on me!
 
 Hello, I'm ```Jack```, a dedicated and passionate software engineer. With a strong background in programming and problem-solving, I strive to create efficient and innovative software solutions.
 

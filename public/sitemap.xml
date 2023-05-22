@@ -23,6 +23,14 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/blog/test1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/blog/</loc>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
   

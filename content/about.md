@@ -10,6 +10,6 @@ Hello, I'm ```Jack```, a dedicated and passionate software engineer. With a stro
 As a software engineer, I specialize in developing high-quality applications, designing robust software architectures, and implementing scalable solutions. I have experience working with various programming languages, frameworks, and technologies, allowing me to adapt to diverse project requirements.
 
 - **Languages**: Java, Python, C++, C, JavaScript, HTML, CSS, SQL, Bash
-- **Frameworks**: Nextjs, React, Bootstrap, Tailwind, jQuery, Node.js, Express.js
+- **Frameworks**: Nextjs, React, Bootstrap, Tailwind, jQuery, Node.js, Electronjs, Javafx, Express.js
 - **Databases**: MySQL, MongoDB, SQLite
 

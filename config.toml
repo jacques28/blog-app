@@ -2,8 +2,7 @@
 baseurl = "https://jacktalking.me/"
 builddrafts = false
 canonifyurls = false
-defaultContentLanguage = "en"
-languages = ["en", "fr", "es"]  # Add the languages you want to support
+languageCode = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"

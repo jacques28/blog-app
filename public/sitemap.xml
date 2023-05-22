@@ -3,39 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://jacktalking.me/blog/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacktalking.me/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacktalking.me/blog/test2/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacktalking.me/blog/test1/</loc>
+    <lastmod>2023-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jacktalking.me/about/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://jacktalking.me/posts/first/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>https://jacktalking.me/posts/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+    <loc>https://jacktalking.me/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/blog/test1/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://jacktalking.me/tags/</loc>
   </url>
   
 </urlset>

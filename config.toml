@@ -2,7 +2,8 @@
 baseurl = "https://jacktalking.me/"
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+defaultContentLanguage = "en"
+languages = ["en", "fr", "es"]  # Add the languages you want to support
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -25,6 +26,11 @@ intro = "Software Engineer"
 description = "Now @coming soon. Previously @Spotiyrec @Stoicattitude.<br/> \"Want to know more check about me.\""
 authorimage = "logo.jpg"
 dateformat = "Jan 2, 2006"
+disqusShortname = "jacktalking"
+
+
+
+
 
 ## Site Meta Settings
 [params.meta]

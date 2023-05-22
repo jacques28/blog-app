@@ -2,17 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Jack&#39;s Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://jacktalking.me/blog/</link>
     <description>Recent content in Blogs on Jack&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jacktalking.me/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/blog/test1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>List of tentative blog topics</title>
+      <link>https://jacktalking.me/blog/test2/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/test1/</guid>
-      <description></description>
+      <guid>https://jacktalking.me/blog/test2/</guid>
+      <description>List of tentative blog topics  How work on data structures and algorithms the best way Roadmap for AI/ML for beginners How to get started with open source How to get started with competitive programming How to get started with web development How to get started with app development  </description>
+    </item>
+    
+    <item>
+      <title>What is this blog about?</title>
+      <link>https://jacktalking.me/blog/test1/</link>
+      <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacktalking.me/blog/test1/</guid>
+      <description>Purpose Article publication The purpose of this blog is to share my thoughts and experiences as a software engineer. I will be writing about various topics, including software development, programming, electronic, and technology. I hope you find my posts informative and enjoyable to read.
+Personal development I also want to use this blog as a way to improve my writing skills. I have always struggled with writing, and I hope that by writing more, I can become a better writer.</description>
     </item>
     
   </channel>

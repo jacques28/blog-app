@@ -1,6 +1,6 @@
 ---
 title: "How to get started with web development"
-date: 2023-05-11
+date: 2023-06-11
 ---
 
 ## The Best way to get started with web development

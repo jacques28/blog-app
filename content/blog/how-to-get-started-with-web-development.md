@@ -42,7 +42,7 @@ To fully understand these principles, I suggest that you work on several project
 By Frank Zickert
 
 ### Conclusion
-Web development is a great way to get started with programming and is very accessible for people that can't find themselves in very niche areas like AI, Machine learning, Data science, etc. Unfortunately, I can't add a lot of detail to this article let me know if you would like further in-depth articles on these various themes. I hope this article will help you get started with Web development and I hope you will enjoy it as much as I do. If you have any questions or comments, please leave me an **[email](mailto:devjacques28i@gmail.com)**. I will be happy to answer them.  Thanks for stoping by you and have a great day!
+Web development is a great way to get started with programming and is very accessible for people that can't find themselves in very niche areas like AI, Machine learning, Data science, etc. Unfortunately, I can't add a lot of detail to this article let me know if you would like further in-depth articles on these various themes. I hope this article will help you get started with Web development and I hope you will enjoy it as much as I do. If you have any questions or comments, please leave me an **[email](mailto:devjacques28i@gmail.com)**. I will be happy to answer them.  Thanks for stoping by and have a great day!
 
                                                                                 
 >>>>>>>>>>>````When justice is done, it brings joy to the righteous but terror to evildoers.```` - Proverbs
